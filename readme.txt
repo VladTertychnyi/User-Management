@@ -1,0 +1,1 @@
+Run the application through the UserManagementApplication class and then send requests to it, for example through Postman or through the developer console in the browser.
